@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SuL6aN502
-- 👀 I’m interested in network and web dev
-- 🌱 I’m currently learning networks
+- 👀 I’m interested in web dev
+- 🌱 I’m currently learning web dev
 - 📫 How to reach me 0548558862
 
 <!---
